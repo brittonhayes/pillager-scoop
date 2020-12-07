@@ -1,0 +1,21 @@
+{
+    "version": "0.1.6",
+    "architecture": {
+        "32bit": {
+            "url": "http://github.com/brittonhayes/pillager/releases/v0.1.6/pillager_0.1.6_Windows_i386.tar.gz",
+            "bin": [
+                "pillager.exe"
+            ],
+            "hash": "4c104ab6a750f1a684f03601b3577a99ae00b0eff2a088dbd58f99ba320871b3"
+        },
+        "64bit": {
+            "url": "http://github.com/brittonhayes/pillager/releases/v0.1.6/pillager_0.1.6_Windows_x86_64.tar.gz",
+            "bin": [
+                "pillager.exe"
+            ],
+            "hash": "ef5932588e0f649df43d54cec33fb52f19953210aabc0b2b74d44781dc0f912f"
+        }
+    },
+    "license": "MIT",
+    "description": "Pillage filesystems for sensitive information"
+}
