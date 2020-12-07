@@ -1,19 +1,19 @@
 {
-    "version": "0.1.8",
+    "version": "0.1.9",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/brittonhayes/pillager/releases/download/v0.1.8/pillager_0.1.8_Windows_i386.tar.gz",
+            "url": "https://github.com/brittonhayes/pillager/releases/download/v0.1.9/pillager_0.1.9_Windows_i386.tar.gz",
             "bin": [
                 "pillager.exe"
             ],
-            "hash": "08d9b30be6f73c09156134a0037b15dfd4e44a805dd617646d6a90a3333f0298"
+            "hash": "a74147ad6da3f2450afa991fa947a84be06c6728ef464fd4e5f08011b4cfc1d6"
         },
         "64bit": {
-            "url": "https://github.com/brittonhayes/pillager/releases/download/v0.1.8/pillager_0.1.8_Windows_x86_64.tar.gz",
+            "url": "https://github.com/brittonhayes/pillager/releases/download/v0.1.9/pillager_0.1.9_Windows_x86_64.tar.gz",
             "bin": [
                 "pillager.exe"
             ],
-            "hash": "649e185fd5e87d063b2c1c522e93c7d150e2470c1a0e33573623a3ca0939f716"
+            "hash": "83e90474c98ea49aa8a0a1d23a1a7b448b99d3698ebc6bbe4c75b398809c2279"
         }
     },
     "license": "MIT",
