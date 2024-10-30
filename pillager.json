@@ -1,21 +1,29 @@
 {
-    "version": "0.8.1",
+    "version": "0.8.4",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/brittonhayes/pillager/releases/download/v0.8.1/pillager_0.8.1_Windows_i386.tar.gz",
+            "url": "https://github.com/brittonhayes/pillager/releases/download/v0.8.4/pillager_0.8.4_windows_386.tar.gz",
             "bin": [
                 "pillager.exe"
             ],
-            "hash": "dfacb5dc4142793d51a34fe17423d107cd6764410aec0e646907241916aac3bc"
+            "hash": "c9ff8615bd30696b14c20c143a18438439aac328e81a09bffd173163a6088a80"
         },
         "64bit": {
-            "url": "https://github.com/brittonhayes/pillager/releases/download/v0.8.1/pillager_0.8.1_Windows_x86_64.tar.gz",
+            "url": "https://github.com/brittonhayes/pillager/releases/download/v0.8.4/pillager_0.8.4_windows_amd64.tar.gz",
             "bin": [
                 "pillager.exe"
             ],
-            "hash": "e85d5a2b4719f1567925e9543b82a54feb48c7725b1b320c5f179cc138a2ba4e"
+            "hash": "e9cf6417a5e2e834b33b06ef133d7b3cd939fccc463a6c07dbb266250f6f40d3"
+        },
+        "arm64": {
+            "url": "https://github.com/brittonhayes/pillager/releases/download/v0.8.4/pillager_0.8.4_windows_arm64.tar.gz",
+            "bin": [
+                "pillager.exe"
+            ],
+            "hash": "dbf02f106cbcd1b500cb99508bfd6444eda56ad34a1176fac8f9148510a7a8bb"
         }
     },
+    "homepage": "https://github.com/brittonhayes/pillager",
     "license": "MIT",
     "description": "Pillage filesystems for sensitive information"
 }
