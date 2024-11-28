@@ -1,26 +1,26 @@
 {
-    "version": "0.11.3",
+    "version": "0.11.4",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/brittonhayes/pillager/releases/download/v0.11.3/pillager_0.11.3_windows_386.tar.gz",
+            "url": "https://github.com/brittonhayes/pillager/releases/download/v0.11.4/pillager_0.11.4_windows_386.tar.gz",
             "bin": [
                 "pillager.exe"
             ],
-            "hash": "a189270dfed41e0668795ef696913d966194271efab25fc2bdd26edf2f6db8e0"
+            "hash": "7bd8a12edf81f99f9373b6775f55402608651ee00851eff132fa0fc59de83bf2"
         },
         "64bit": {
-            "url": "https://github.com/brittonhayes/pillager/releases/download/v0.11.3/pillager_0.11.3_windows_amd64.tar.gz",
+            "url": "https://github.com/brittonhayes/pillager/releases/download/v0.11.4/pillager_0.11.4_windows_amd64.tar.gz",
             "bin": [
                 "pillager.exe"
             ],
-            "hash": "ec5f0371248059c1165fb83555c35307b8d52ff49621380d04ffa867522aa756"
+            "hash": "3c46f06ddd85322ccf4f7dad08ffa1bf8ff83ababe439d92b54c19e136fc93d1"
         },
         "arm64": {
-            "url": "https://github.com/brittonhayes/pillager/releases/download/v0.11.3/pillager_0.11.3_windows_arm64.tar.gz",
+            "url": "https://github.com/brittonhayes/pillager/releases/download/v0.11.4/pillager_0.11.4_windows_arm64.tar.gz",
             "bin": [
                 "pillager.exe"
             ],
-            "hash": "1b1bdc6691255366c4826a0e5d16d5801547548d57e5713692e64604e28c0b0c"
+            "hash": "11869f38f1bd403a7113878a30911c7e6daf4cdffd79d7cc4a15025af797a993"
         }
     },
     "homepage": "https://github.com/brittonhayes/pillager",
